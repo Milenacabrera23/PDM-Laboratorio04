@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimens_text_rellenarInfo" >81dp</dimen>
+    <dimen name="dimens_editText_marginTop" >18dp</dimen>
+    <dimen name="dimens_editText_width">379dp</dimen>
+    <dimen name="dimens_editText_height">61dp</dimen>
+    <dimen name="dimens_editText_marginStart">10dp</dimen>
+    <dimen name="dimens_text_confirmarInfo">200dp</dimen>
+    <dimen name="dimes_text_secondActivity">20dp</dimen>
+    <dimen name="dimens_text_Second_marginStart">18dp</dimen>
+    <dimen name="dimens_text_Second_marginTop">20dp</dimen>
+    <dimen name="dimens_Second_marginTop2">20dp</dimen>
+</resources>
